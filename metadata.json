@@ -1,0 +1,6 @@
+{
+  "name": "Alzajel",
+  "description": "تطبيق التواصل الاجتماعي الزاجل لمشاركة الصور والفيديوهات مع فلاتر ذكية، الكاميرا، والرسائل المشفرة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
